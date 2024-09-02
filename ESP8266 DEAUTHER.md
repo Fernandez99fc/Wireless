@@ -37,8 +37,10 @@ password is  <b> deauther</b>
 You can modify some parameters in the deauther bin file such as ip address, ssid and custom information you would like to change.
 
 ip address is 192.168.4.1. Visit in your browser
-![Screenshot (129)](https://github.com/user-attachments/assets/df24bfaf-9cde-47b1-964d-2425d068fa56)
-![Screenshot (130)](https://github.com/user-attachments/assets/7aca1025-bf2c-4a7f-a44e-36bf47983761)
+![Screenshot (128)](https://github.com/user-attachments/assets/c7c11fe1-1013-46a6-8fd1-9a67dded6001)
+![Screenshot (129)](https://github.com/user-attachments/assets/58a58868-9990-4ece-9e50-cc7ab50a52b9)
+![Screenshot (130)](https://github.com/user-attachments/assets/cadea346-f89f-4283-80ae-146dbac22804)
+
 
 
 
