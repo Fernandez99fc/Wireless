@@ -13,7 +13,7 @@ Install it.
 
 
 2) Download flasher firmware bin file
-<a href="https://github.com/Fernandez99fc/Offensive-security/blob/main/Penetration%20Testing/Wireless/Files/AIThinker_ESP8266_8Mbit_v1.5.4.1.bin">Aithinker.bin</a>
+<a href="https://github.com/Fernandez99fc/Wireless/blob/main/Files/AIThinker_ESP8266_8Mbit_v1.5.4.1.bin">Aithinker.bin</a>
 
 3) plug in your nodemcu and it should be detected, having a COM port number:
 ![Screenshot (126)](https://github.com/user-attachments/assets/49679d07-2233-4572-b8dc-2e801850377d)
