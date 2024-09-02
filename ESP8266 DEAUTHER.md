@@ -1,5 +1,4 @@
-![71ZUXpbgc1L _AC_SL1500_](https://github.com/user-attachments/assets/a37bb5b6-a9cf-4b39-b36b-339f658f9e1c)
-
+![scan-fake-attack-wi-fi-networks-with-esp8266-based-wifi-deauther w1456](https://github.com/user-attachments/assets/4f912216-655f-472f-9146-650c624a95cd)
 
 Steps to create a successful esp8266 deauther:-
 
