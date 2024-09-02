@@ -1,5 +1,4 @@
-![images](https://github.com/user-attachments/assets/aea36019-cf28-4a23-9638-abb3ee56b749)
-![images (1)](https://github.com/user-attachments/assets/45ee11fc-6e0c-4edd-a8c5-8e4d823a4e2c)
+![images](https://github.com/user-attachments/assets/4df55381-d5ee-44d5-afca-d2b5d8c4a479)
 
 
 Alfa Awus036ach
