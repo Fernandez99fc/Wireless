@@ -1,3 +1,7 @@
+<b>#Fetch wifi passwords via powershell</b>
+
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted
+
 netsh wlan show profile |
     Select-String '(?<=All User Profile\s+:\s).+' |
     ForEach-Object {
